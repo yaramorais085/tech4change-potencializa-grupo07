@@ -1,5 +1,3 @@
-# tech4change-potencializa-grupo07
-
 # Projeto Potencializa
 ## Adaptação de Avaliações com Inteligência Artificial
 
